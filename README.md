@@ -1,7 +1,7 @@
 
 # 👋 Hello, I'm chaima!
 
-•	🏛️I am a second-year Electrical Engineering student at the National High School of Engineering of Tunis (ENSIT). 
+•	🏛️I am a second-year Electrical Engineering student at the National School of Engineering of Tunis (ENSIT). 
 
 •	👩‍💻I am passionate about embedded systems and IoT.
 
