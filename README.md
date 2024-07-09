@@ -10,3 +10,5 @@
 •	😊 And trying some new things.
 
 Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas. I'm always excited to connect with like-minded individuals!🤗
+
+<img src="https://t.bkit.co/w_668d3a4842c95.gif" />
